@@ -21,12 +21,14 @@ Las siguientes lineas serán según el número de aristas y deben ser ingresadas
 2 3 2
 
 3 1 4
+
 Donde cada linea representa una arista, los dos primeros numeros son los vertices enlazados mientras que el tercer numero es el costo/peso.
 Con los datos ingresados correctamente el programa arrojará una salida mostrando los enlaces y el peso del MST.
 
 ***Cabe recalcar que el número de vertices ingresados es un limite, por lo tanto el valor del vertice no puede ser igual o mayor al número total de vertices ya que lanzaría una excepción porque los valores de cada vertice cuentan desde 0.
 
 ## Ejemplo de entrada:
+
 6
 
 
