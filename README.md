@@ -23,12 +23,21 @@ Con los datos ingresados correctamente el programa arrojará una salida mostrand
 10
 
 0 1 6
+
 1 2 5
+
 2 0 1
+
 0 3 5
+
 1 4 3
+
 3 2 5
+
 3 5 2
+
 5 2 4
+
 5 4 6
+
 4 2 6
